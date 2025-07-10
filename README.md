@@ -1,6 +1,6 @@
 ## About the Project
 Each folder is an exercise where we put in practice the OPP(Object Oriented Programming) or Classes & Objects.
-* [PC Project] (#mundo_pc)
+* [PC Project] (#https://github.com/Judithgz/Clases-Objetos/mundo_pc)
 * [Library] (#sistema_bibliotecas)
 * Employees System] (#sistema_empleados)
 
